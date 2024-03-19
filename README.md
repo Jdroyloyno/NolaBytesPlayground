@@ -73,3 +73,16 @@ Below are files from the now uninstalled React project. Use this as a reference 
             </>
         );
     }
+
+# Figma HTML Files
+
+Figma files can be converted to HTML CSS by using the Siter extention.
+
+Steps to use siter:
+
+(1) Make account on browser page
+(2) Right click on figma slide and choose plugin then type slider
+(3) Once slected run and sign into account
+(4) Then with slide run on siye, publish, and right click on page to save as "Complete" file.
+(5) The file can be dragged on to visual studio from here and used by an exstenion.
+(6) I use the exstention "open in browser" used by right clicking on the file.
